@@ -1,0 +1,20 @@
+16
+New_England_Patriots	8	8	0
+Baltimore_Ravens	7	5	1
+Buffalo_Bills   7   5   
+Buffalo_Bills	7	5	0
+Indianapolis_Colts	7	5	0
+Kansas_City_Chiefs	8	5	0
+Houston_Texans	8	5	0
+Tennessee_Titans	8	4	Nan
+Jacksonville_Jaguars	8	4	0
+Pittsburgh_Steelers	7	3	0
+Oakland_Raiders	7	3	0
+Los_Angeles_Chargers	8	3	0
+Cleveland_Browns	7	2	0
+Denver_Broncos	8	2	0
+New_York_Jets	7	1	Nan
+Cincinnati_Bengals	8	0	0
+Miami_Dolphins	7	0	0
+Miami_Dolphins	7	0	0
+Miami_Dolphins	7	0	0
